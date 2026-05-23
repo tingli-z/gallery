@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Assets/地铁花海.fbx filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
