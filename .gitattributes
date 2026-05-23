@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Assets/地铁花海.fbx filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Scenes/Subway[[:space:]]Flower[[:space:]]Sea.unity filter=lfs diff=lfs merge=lfs -text
+Assets/Scenes/mainscene.unity filter=lfs diff=lfs merge=lfs -text
