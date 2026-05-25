@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/mainscene.unity
+    guid: 57b3fdd38e8abad419001dcd8af04796
+  - enabled: 1
+    path: Assets/Scenes/Subway Flower Sea.unity
+    guid: c5e54bcdd687a7241a0b0cb22455ff6d
   m_configObjects: {}
