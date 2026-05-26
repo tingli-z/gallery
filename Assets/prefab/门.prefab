@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 9212009485606920632}
   - component: {fileID: 1262315300022963077}
   - component: {fileID: 8076780616364529590}
+  - component: {fileID: 6906873435740138115}
   m_Layer: 0
   m_Name: "\u95E8"
   m_TagString: Untagged
@@ -218,7 +219,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: open the door
+          value: kaimen
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -312,7 +313,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: close the door
+          value: guanmen
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -444,3 +445,24 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.015851568, y: 0.0011042708, z: 0.038253788}
   m_Center: {x: -0.007766732, y: -0.00030996662, z: -0.0043174624}
+--- !u!95 &6906873435740138115
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4760926452134427329}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 44f305d66e79a214ab33640e44cdd95a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
