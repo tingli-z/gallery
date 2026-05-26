@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Subway Flower Sea.unity
     guid: c5e54bcdd687a7241a0b0cb22455ff6d
+  - enabled: 1
+    path: Assets/Scenes/the end.unity
+    guid: cbaaf7c99cb00b548a8f30a7dfa7ca78
   m_configObjects: {}
