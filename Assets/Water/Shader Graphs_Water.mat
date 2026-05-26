@@ -52,7 +52,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Wave_speed: 0.17
+    - _Wave_speed: 0.1
     - _deplacement: 0.57
     - _depthedge1: 2.5
     - _depthedge2: 0

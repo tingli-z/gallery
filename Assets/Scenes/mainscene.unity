@@ -174,8 +174,8 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.9968137, g: 0.805533, b: 0.36671236, a: 1}
-  m_Intensity: 8
+  m_Color: {r: 0.054444045, g: 0.12411095, b: 0.29043284, a: 0}
+  m_Intensity: 0
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -233,7 +233,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 203844586}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.4043943, y: 0.10835712, z: 0.23504475, w: 0.87719893}
+  m_LocalRotation: {x: 0.8824173, y: 0.236443, z: 0.10527112, w: 0.39287716}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -845,7 +845,7 @@ Terrain:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 756813943}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 6
   m_TerrainData: {fileID: 15600000, guid: 6de1511012666c84dad2bc096f34e022, type: 2}
   m_TreeDistance: 5000
@@ -4123,6 +4123,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Water Mesh
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271149901623564943, guid: 2c83c0f3ac5bb144f8f95654d5f9b89a,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 344.4855
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271149901623564943, guid: 2c83c0f3ac5bb144f8f95654d5f9b89a,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.2149
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271149901623564943, guid: 2c83c0f3ac5bb144f8f95654d5f9b89a,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 367.70993
       objectReference: {fileID: 0}
     - target: {fileID: 4271149901623564943, guid: 2c83c0f3ac5bb144f8f95654d5f9b89a,
         type: 3}
