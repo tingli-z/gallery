@@ -985,7 +985,7 @@ MonoBehaviour:
         actionHashCodes: 9c512400
         unityObjectParams: []
         fsmGameObjectParams:
-        - useVariable: 0
+        - useVariable: 1
           name: 
           tooltip: 
           showInInspector: 0
@@ -3734,6 +3734,11 @@ PrefabInstance:
     - target: {fileID: 8076780616364529590, guid: 40b8ad239fc81004488adfd979208d79,
         type: 3}
       propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076780616364529590, guid: 40b8ad239fc81004488adfd979208d79,
+        type: 3}
+      propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
