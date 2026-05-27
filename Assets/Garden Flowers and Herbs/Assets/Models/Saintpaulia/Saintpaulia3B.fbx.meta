@@ -1,11 +1,4 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 11e10f0ff6ef7054bbd3c5dd73e1e137
-ModelImporter:
-  serializedVersion: 22200
-  internalIDToNameTable: []
-  externalObjects: {}
-=======
 guid: b9bd6b68e8c9fc24db129503ce277654
 ModelImporter:
   serializedVersion: 20200
@@ -101,7 +94,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: SaintpauliaHD
     second: {fileID: 2100000, guid: b5f827a01fd11bc458c9c3890814794c, type: 2}
->>>>>>> main
   materials:
     materialImportMode: 2
     materialName: 0
@@ -112,10 +104,6 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-<<<<<<< HEAD
-    removeConstantScaleCurves: 0
-=======
->>>>>>> main
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -133,11 +121,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-<<<<<<< HEAD
-    isReadable: 0
-=======
     isReadable: 1
->>>>>>> main
   meshes:
     lODScreenPercentages:
     - 0.25
@@ -149,24 +133,13 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-<<<<<<< HEAD
-    importPhysicalCameras: 1
-=======
->>>>>>> main
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-<<<<<<< HEAD
-    nodeNameCollisionStrategy: 1
-    fileIdsGeneration: 2
-    swapUVChannels: 0
-    generateSecondaryUV: 0
-=======
     fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
->>>>>>> main
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -175,28 +148,16 @@ ModelImporter:
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
-<<<<<<< HEAD
-    optimizeBones: 1
-=======
->>>>>>> main
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-<<<<<<< HEAD
-    secondaryUVMarginMethod: 1
-=======
     secondaryUVMarginMethod: 0
->>>>>>> main
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-<<<<<<< HEAD
-    strictVertexDataChecks: 0
-=======
->>>>>>> main
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -225,19 +186,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-<<<<<<< HEAD
-  animationType: 2
-  humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  importBlendShapeDeformPercent: 1
-  remapMaterialsIfMaterialImportModeIsNone: 0
-=======
   animationType: 0
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 0
->>>>>>> main
   additionalBone: 0
   userData: 
   assetBundleName: 
