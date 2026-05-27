@@ -1,5 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 7b0c6b96a3c222f418b0e0c10e51bd51
+=======
+guid: 81c23d0685be10842819af449c6d0e46
+timeCreated: 1519666162
+licenseType: Free
+>>>>>>> main
 DefaultImporter:
   externalObjects: {}
   userData: 

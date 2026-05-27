@@ -1,9 +1,27 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 682e01622d7191841ac5ddb8a7fc79e4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
   externalObjects: {}
+=======
+guid: 928cc34e12c0c8e44a0f4d43f4ee3699
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Saintpaulia
+    second: {fileID: 2100000, guid: b5f827a01fd11bc458c9c3890814794c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SaintpauliaBillboard
+    second: {fileID: 2100000, guid: 8f7fc866fe498f941bf9a4432de16cee, type: 2}
+>>>>>>> main
   materials:
     materialImportMode: 2
     materialName: 0
@@ -14,7 +32,10 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+<<<<<<< HEAD
     removeConstantScaleCurves: 0
+=======
+>>>>>>> main
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -44,12 +65,18 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
+<<<<<<< HEAD
     importPhysicalCameras: 1
+=======
+>>>>>>> main
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+<<<<<<< HEAD
     nodeNameCollisionStrategy: 1
+=======
+>>>>>>> main
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -61,7 +88,10 @@ ModelImporter:
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
+<<<<<<< HEAD
     optimizeBones: 1
+=======
+>>>>>>> main
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -72,7 +102,10 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+<<<<<<< HEAD
     strictVertexDataChecks: 0
+=======
+>>>>>>> main
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -105,8 +138,11 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+<<<<<<< HEAD
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
+=======
+>>>>>>> main
   additionalBone: 0
   userData: 
   assetBundleName: 

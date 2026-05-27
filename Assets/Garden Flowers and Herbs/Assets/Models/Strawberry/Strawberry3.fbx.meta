@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 2be0f61408ccbf84a8dde234134b9d47
 ModelImporter:
   serializedVersion: 22200
@@ -6,6 +7,40 @@ ModelImporter:
   externalObjects: {}
   materials:
     materialImportMode: 2
+=======
+guid: 99bfdcf1f1e7ceb46a3d3547eea20734
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Strawberry3_LOD0
+    100004: Strawberry3_LOD1
+    100006: Strawberry3_LOD2
+    400000: //RootNode
+    400002: Strawberry3_LOD0
+    400004: Strawberry3_LOD1
+    400006: Strawberry3_LOD2
+    2100000: Strawberry
+    2100002: Strawberry.003
+    2300000: Strawberry3_LOD0
+    2300002: Strawberry3_LOD1
+    2300004: Strawberry3_LOD2
+    3300000: Strawberry3_LOD0
+    3300002: Strawberry3_LOD1
+    3300004: Strawberry3_LOD2
+    4300000: Strawberry3_LOD0
+    4300002: Strawberry3_LOD2
+    4300004: Strawberry3_LOD1
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strawberry
+    second: {fileID: 2100000, guid: 21b5cd41efef5164c9e5c448784d9449, type: 2}
+  materials:
+    importMaterials: 1
+>>>>>>> main
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -14,7 +49,10 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+<<<<<<< HEAD
     removeConstantScaleCurves: 0
+=======
+>>>>>>> main
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -32,7 +70,11 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
+<<<<<<< HEAD
     isReadable: 0
+=======
+    isReadable: 1
+>>>>>>> main
   meshes:
     lODScreenPercentages:
     - 0.25
@@ -42,12 +84,16 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+<<<<<<< HEAD
     sortHierarchyByName: 1
     importPhysicalCameras: 1
+=======
+>>>>>>> main
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+<<<<<<< HEAD
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
@@ -62,16 +108,32 @@ ModelImporter:
     minBoneWeight: 0.001
     optimizeBones: 1
     meshOptimizationFlags: -1
+=======
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+>>>>>>> main
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+<<<<<<< HEAD
     secondaryUVMarginMethod: 1
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
     strictVertexDataChecks: 0
+=======
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+>>>>>>> main
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -80,10 +142,17 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+<<<<<<< HEAD
   referencedClips: []
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
+=======
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+>>>>>>> main
     human: []
     skeleton: []
     armTwist: 0.5
@@ -93,12 +162,16 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+<<<<<<< HEAD
     globalScale: 1
+=======
+>>>>>>> main
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+<<<<<<< HEAD
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
@@ -106,6 +179,10 @@ ModelImporter:
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
+=======
+  animationType: 0
+  humanoidOversampling: 1
+>>>>>>> main
   additionalBone: 0
   userData: 
   assetBundleName: 
